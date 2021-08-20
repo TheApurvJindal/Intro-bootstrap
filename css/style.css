@@ -55,3 +55,29 @@ body{
      background-color: #512DA8;
      
 }
+
+
+.font-boldness{
+    font-weight: normal;
+}
+
+.font-height{
+    line-height: 1.6;
+}
+
+.link-color{
+    color: black;
+}
+
+.display-inline{
+    display: inline;
+}
+
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
